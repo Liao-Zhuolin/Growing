@@ -1,2 +1,2 @@
 # Paper-notebook
-#Used to record some paper-related content and notes
+# Used to record some paper-related content and notes
