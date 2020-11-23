@@ -1,3 +1,3 @@
 # Paper-notebook
 # Used to record some paper-related content and notes
-![image]()
+![image](https://github.com/Ice-iron/Paper-notebook.git/best.jpg)
